@@ -5,11 +5,11 @@
 
 ---
 
-## 1. 🏗️ TitanVault Architecture — The 3 Pillars
+## 1. 🏗️ HerculesVault Architecture — The 3 Pillars
 
 ```mermaid
 graph TB
-    subgraph TITANVAULT["🛡️ PROJECT TITANVAULT"]
+    subgraph HERCULESVAULT["🛡️ PROJECT HERCULESVAULT"]
         direction TB
         
         subgraph P1["PILLAR 1: Post-Quantum Cryptography"]
@@ -38,7 +38,7 @@ graph TB
     P2 --> PROTECTED
     P3 --> PROTECTED
 
-    style TITANVAULT fill:#1a1a2e,stroke:#e94560,stroke-width:3px,color:#fff
+    style HERCULESVAULT fill:#1a1a2e,stroke:#e94560,stroke-width:3px,color:#fff
     style P1 fill:#0f3460,stroke:#53d8fb,stroke-width:2px,color:#fff
     style P2 fill:#0f3460,stroke:#53d8fb,stroke-width:2px,color:#fff
     style P3 fill:#0f3460,stroke:#53d8fb,stroke-width:2px,color:#fff
@@ -126,7 +126,7 @@ graph TB
 
 ```mermaid
 gantt
-    title TitanVault Deployment Roadmap (12 Months)
+    title HerculesVault Deployment Roadmap (12 Months)
     dateFormat YYYY-MM
     axisFormat %b
 
@@ -218,7 +218,7 @@ graph LR
 sequenceDiagram
     participant U as 👤 User (Sender)
     participant W as 📱 CebuCoin Wallet
-    participant S as 🛡️ TitanVault
+    participant S as 🛡️ HerculesVault
     participant B as ⛓️ Blockchain
     participant R as 👤 Receiver
 
@@ -266,6 +266,6 @@ mmdc -i VISUALS.md -o diagram.png
 |-----------|----------------|------|
 | **Mary Grace** | #2 Hydra-Pulse Threat Map | While explaining the 4 threats |
 | **Jerimy** | #3 Attack Surface Map (3 Layers) | While mapping vulnerabilities |
-| **Ashlee** | #1 TitanVault Architecture + #6 Zero Trust + #7 PQC Transaction | While explaining the solution |
+| **Ashlee** | #1 HerculesVault Architecture + #6 Zero Trust + #7 PQC Transaction | While explaining the solution |
 | **Mike** | #4 Deployment Timeline | While explaining the 12-month plan |
 | **Everyone** | #5 CIA Triad Flowchart | During the final Act V |

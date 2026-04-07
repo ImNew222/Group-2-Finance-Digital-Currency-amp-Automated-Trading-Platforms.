@@ -7,7 +7,7 @@
 
 ## 🧠 THE BIG PICTURE (In One Paragraph)
 
-Our project is about protecting **Neo-Cebu's money systems** (digital currency + automated stock trading) from **4 types of modern cyber attacks**. We designed a defense system called **"Project TitanVault"** that combines 3 technologies: **unbreakable encryption**, **strict access control**, and **an AI security guard**. We also planned how to install it over 12 months without shutting anything down, and proved it works by testing it against attack scenarios.
+Our project is about protecting **Neo-Cebu's money systems** (digital currency + automated stock trading) from **4 types of modern cyber attacks**. We designed a defense system called **"HerculesVault"** that combines 3 technologies: **unbreakable encryption**, **strict access control**, and **an AI security guard**. We also planned how to install it over 12 months without shutting anything down, and proved it works by testing it against attack scenarios.
 
 **That's it.** Everything below is just the details.
 
@@ -105,9 +105,9 @@ The most dangerous layer because **technology can't fix human error**:
 
 ---
 
-# CHAPTER III — Our Solution: Project TitanVault
+# CHAPTER III — Our Solution: HerculesVault
 
-TitanVault is our defense system. It has **3 layers** (we call them "pillars"). If one layer fails, the other two still protect everything.
+HerculesVault is our defense system. It has **3 layers** (we call them "pillars"). If one layer fails, the other two still protect everything.
 
 ## Pillar 1: Post-Quantum Cryptography (PQC)
 
@@ -201,7 +201,7 @@ The problem: **millions of people use CebuCoin every day.** We can't just shut e
 - **Month 8:** Turn on Sentinel AI (it's been observing for 5 months already)
 
 ## Phase 3: Finish & Test (Months 9–12)
-**Turn off old systems. TitanVault is now the main defense.**
+**Turn off old systems. HerculesVault is now the main defense.**
 - Hire ethical hackers to try breaking in (Red Team) ✅
 - Simulate a worst-case scenario (all 3 pillars attacked at once) ✅
 - Publish a public report so citizens trust the system ✅
@@ -221,7 +221,7 @@ The problem: **millions of people use CebuCoin every day.** We can't just shut e
 | **I** | Integrity | Can someone secretly change my data? **NO.** |
 | **A** | Availability | Can I access my money when I need it? **YES.** |
 
-Every security system MUST pass all 3. Here's how TitanVault passes:
+Every security system MUST pass all 3. Here's how HerculesVault passes:
 
 ---
 
@@ -267,7 +267,7 @@ Every security system MUST pass all 3. Here's how TitanVault passes:
 # ❓ QUESTIONS THE PROFESSOR MIGHT ASK (And Your Answers)
 
 ### "Why not just use existing security tools?"
-> "Existing tools were built for 2024-2025 threats. They use rule-based detection that can't adapt to AI-powered attacks. Our TitanVault uses AI vs AI, quantum-proof encryption, and a Zero Trust model that assumes the attacker is already inside. It's built for 2026 and beyond."
+> "Existing tools were built for 2024-2025 threats. They use rule-based detection that can't adapt to AI-powered attacks. Our HerculesVault uses AI vs AI, quantum-proof encryption, and a Zero Trust model that assumes the attacker is already inside. It's built for 2026 and beyond."
 
 ### "What if quantum computers never become a threat?"
 > "We're using the 'Harvest Now, Decrypt Later' defense. Attackers are already collecting encrypted data today. Even if quantum computers take 5 more years, our data from today would still be vulnerable. PQC protects it from day one."
@@ -289,7 +289,7 @@ If you forget everything else, remember these **5 sentences:**
 
 1. **"Neo-Cebu's financial systems face 4 threats: AI attacks, deepfakes, quantum threats, and social engineering."**
 2. **"Hackers can break in through the machines, the software, or the people."**
-3. **"TitanVault has 3 pillars: unbreakable locks (PQC), ID checks everywhere (Zero Trust), and a smart guard (Sentinel AI)."**
+3. **"HerculesVault has 3 pillars: unbreakable locks (PQC), ID checks everywhere (Zero Trust), and a smart guard (Sentinel AI)."**
 4. **"We deploy it in 12 months with zero downtime — old and new systems run side by side."**
 5. **"It passes all CIA tests: no one sees what they shouldn't, no one changes what they shouldn't, and the system never goes down."**
 

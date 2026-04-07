@@ -11,8 +11,8 @@
 |--------|---------|--------------------|--------------------|
 | **Mary Grace** | Chapter I: Introduction & Problem Landscape | Agent Grace — Lead Investigator | What Neo-Cebu's finance sector looks like and what threats are coming |
 | **Jerimy** | Chapter II: Attack Surface Mapping | Agent Jerimy — Threat Analyst | Where hackers can break into our systems (hardware, software, people) |
-| **Ashlee** | Chapter III: Proposed Solution (TitanVault) | Agent Ashlee — Solution Architect | How our 3-pillar defense system works |
-| **Mike** | Chapter IV: Implementation Roadmap | Director Mike — Operations Chief | How we deploy TitanVault without shutting anything down |
+| **Ashlee** | Chapter III: Proposed Solution (HerculesVault) | Agent Ashlee — Solution Architect | How our 3-pillar defense system works |
+| **Mike** | Chapter IV: Implementation Roadmap | Director Mike — Operations Chief | How we deploy HerculesVault without shutting anything down |
 
 > **Chapter V (CIA Triad)** = done **together** — each person explains one part.
 
@@ -115,7 +115,7 @@
 
 ### 🟠 MIKE — Chapter IV (The Deployment)
 
-**Your job:** Explain *how we install TitanVault without breaking anything.*
+**Your job:** Explain *how we install HerculesVault without breaking anything.*
 
 **Key things to memorize:**
 
@@ -131,7 +131,7 @@
 - Month 8: Activate Sentinel AI (it's been watching for 5 months already)
 
 #### Phase 3: Full Switch + Testing (Months 9–12)
-- Turn off old systems — TitanVault is now primary
+- Turn off old systems — HerculesVault is now primary
 - Hire ethical hackers to try to break in (Red Team)
 - Simulate worst-case scenario (all 3 pillars attacked at once)
 - Publish public report for citizens
@@ -156,7 +156,7 @@
 |--------|----------|---------------------|
 | **Mary Grace** | **Confidentiality** — "Only authorized people can see the data" | A hacker steals an employee's password → Zero Trust blocks the device + Sentinel detects wrong typing patterns → account locked ✅ |
 | **Jerimy** | **Integrity** — "Nobody can change data without permission" | A hacker edits a smart contract → PQC signature breaks → blockchain rejects it → Sentinel alerts team ✅ |
-| **Ashlee** | Full **TitanVault summary** — "Three pillars working together" | Wrap-up: explain how all 3 pillars protect all 3 CIA principles |
+| **Ashlee** | Full **HerculesVault summary** — "Three pillars working together" | Wrap-up: explain how all 3 pillars protect all 3 CIA principles |
 | **Mike** | **Availability** — "The system is always running" | A DDoS attack floods AutoTrade → Sentinel filters traffic → micro-segmentation isolates it → backup servers take over ✅ |
 
 ---
@@ -167,7 +167,7 @@
 |------|-----|------|
 | 0:00–1:30 | Mary Grace | Act I — the threats |
 | 1:30–3:00 | Jerimy | Act II — the weak spots |
-| 3:00–4:30 | Ashlee | Act III — TitanVault solution |
+| 3:00–4:30 | Ashlee | Act III — HerculesVault solution |
 | 4:30–5:30 | Mike | Act IV — deployment plan |
 | 5:30–7:00 | Everyone | Act V — CIA Triad + stress tests |
 

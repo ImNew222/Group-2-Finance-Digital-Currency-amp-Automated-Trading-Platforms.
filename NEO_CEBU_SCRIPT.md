@@ -169,9 +169,9 @@
 **[SCENE 4 — Agent Ashlee stands up, a futuristic blueprint appears on screen]**
 
 **AGENT ASHLEE**:
-> I've designed a comprehensive defense system. I call it **"Project TitanVault"** — a multi-layered security framework built for 2026 and beyond. It combines **three cutting-edge technologies** into one shield.
+> I've designed a comprehensive defense system. I call it **"HerculesVault"** — a multi-layered security framework built for 2026 and beyond. It combines **three cutting-edge technologies** into one shield.
 
-### 🏗️ Project TitanVault — The Three Pillars
+### 🏗️ HerculesVault — The Three Pillars
 
 ---
 
@@ -188,7 +188,7 @@
 
 **How it protects Neo-Cebu's finance:**
 
-| Current System | Problem | TitanVault Upgrade |
+| Current System | Problem | HerculesVault Upgrade |
 |---------------|---------|-------------------|
 | CebuCoin transactions use RSA-2048 | Quantum computers crack it in minutes | Upgraded to **CRYSTALS-Kyber** — quantum-proof encryption |
 | Digital signatures on smart contracts use ECC | Quantum computers can forge signatures | Upgraded to **CRYSTALS-Dilithium** — quantum-proof signatures |
@@ -252,7 +252,7 @@ NEW WAY (Zero Trust):
 ---
 
 **AGENT ASHLEE**:
-> So to summarize — **TitanVault** is a three-layer shield:  
+> So to summarize — **HerculesVault** is a three-layer shield:  
 > 1️⃣ **PQC** protects the data itself (unbreakable locks)  
 > 2️⃣ **Zero Trust** controls who can access what (ID checks everywhere)  
 > 3️⃣ **Sentinel AI** watches everything in real-time (smart guard)  
@@ -271,7 +271,7 @@ NEW WAY (Zero Trust):
 **DIRECTOR MIKE**:
 > We can't just flip a switch and upgrade everything — **millions of people are using these systems RIGHT NOW**. If we shut down CebuCoin even for an hour, people can't buy food, pay bills, or get paid. So here's our plan: **a phased rollout over 12 months, with ZERO downtime.**
 
-### 📅 TitanVault Deployment Timeline
+### 📅 HerculesVault Deployment Timeline
 
 ---
 
@@ -317,7 +317,7 @@ NEW WAY (Zero Trust):
 
 | Task | Details |
 |------|---------|
-| **Full Cutover** | Retire old encryption and old access controls — TitanVault is now the primary system |
+| **Full Cutover** | Retire old encryption and old access controls — HerculesVault is now the primary system |
 | **Red Team Exercise** | Hire ethical hackers to try EVERYTHING: quantum attacks, deepfakes, AI manipulation, phishing |
 | **Disaster Recovery Drill** | Simulate a worst-case scenario — what happens if all three pillars are attacked simultaneously? |
 | **Public Report** | Publish transparency report showing Neo-Cebu citizens that their money is protected |
@@ -332,10 +332,10 @@ NEW WAY (Zero Trust):
 
 ---
 
-**[SCENE 6 — All four agents stand together in front of a large dashboard showing TitanVault's status. Green lights everywhere.]**
+**[SCENE 6 — All four agents stand together in front of a large dashboard showing HerculesVault's status. Green lights everywhere.]**
 
 **AGENT GRACE**:
-> Before we declare victory, we need to prove that TitanVault satisfies the **CIA Triad** — the three pillars of information security. Let me explain:
+> Before we declare victory, we need to prove that HerculesVault satisfies the **CIA Triad** — the three pillars of information security. Let me explain:
 
 ### 🔺 The CIA Triad — In Simple Terms
 
@@ -350,13 +350,13 @@ NEW WAY (Zero Trust):
 ---
 
 **AGENT GRACE**:
-> Let me prove how TitanVault handles each one — even under attack.
+> Let me prove how HerculesVault handles each one — even under attack.
 
 ---
 
 ### 🔒 CONFIDENTIALITY — "No one sees what they shouldn't"
 
-| How TitanVault Protects It | Details |
+| How HerculesVault Protects It | Details |
 |---------------------------|---------|
 | **PQC Encryption** | All data (transactions, balances, personal info) is encrypted with quantum-proof algorithms — even with a quantum computer, attackers can't read it |
 | **Zero Trust Access Control** | Even employees can only see what their specific role allows — a teller can't view trading data |
@@ -369,7 +369,7 @@ NEW WAY (Zero Trust):
 
 ### 🔏 INTEGRITY — "No one changes what they shouldn't"
 
-| How TitanVault Protects It | Details |
+| How HerculesVault Protects It | Details |
 |---------------------------|---------|
 | **PQC Digital Signatures (Dilithium)** | Every transaction is digitally signed — if even one digit is changed, the signature breaks and the system rejects it |
 | **Blockchain Immutability** | CebuCoin transactions are recorded on a blockchain — once written, they cannot be altered without detection |
@@ -382,7 +382,7 @@ NEW WAY (Zero Trust):
 
 ### 🟢 AVAILABILITY — "The system is always up"
 
-| How TitanVault Protects It | Details |
+| How HerculesVault Protects It | Details |
 |---------------------------|---------|
 | **Micro-segmentation** | If one part is attacked, it's isolated — the rest keeps running. Trading going down doesn't affect wallets |
 | **Redundant Systems** | Multiple backup servers in different locations — if Cebu IT Park goes down, backup in Mandaue takes over |
@@ -405,13 +405,13 @@ NEW WAY (Zero Trust):
 > We mapped every vulnerability across hardware, software, and human factors. We know exactly where the enemy can attack.
 
 **AGENT ASHLEE**:
-> We built **Project TitanVault** — a three-pillar defense combining Post-Quantum Cryptography, Zero Trust Architecture, and Sentinel AI to create an unbreakable shield.
+> We built **HerculesVault** — a three-pillar defense combining Post-Quantum Cryptography, Zero Trust Architecture, and Sentinel AI to create an unbreakable shield.
 
 **DIRECTOR MIKE**:
 > And we can deploy it in 12 months, with zero downtime, zero disruption to Neo-Cebu's citizens, and full CIA Triad compliance.
 
 **ALL TOGETHER**:
-> Neo-Cebu's financial future is secure. **TitanVault is ready.**
+> Neo-Cebu's financial future is secure. **HerculesVault is ready.**
 
 ---
 
